@@ -1,2 +1,2 @@
-permalink:/tester
+permalink: /tester
 ## works works works
